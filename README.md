@@ -1,4 +1,4 @@
-# final-project-final-project-team-7
+# Food Composition
 Haoxuan Zhang
 Yuechen Xu
 Brandon Mei
